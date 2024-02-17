@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6446049,
+    "name": "Rev. Daiwik Sethi",
+    "email": "daiwik_rev_sethi@bode.example",
+    "status": "inactive",
+    "posts_count": 0,
+    "todos_count": 1
+  },
+  {
+    "id": 6446047,
+    "name": "Jaimini Ahluwalia",
+    "email": "jaimini_ahluwalia@prosacco-nolan.test",
+    "status": "active",
+    "posts_count": 1,
+    "todos_count": 0
+  },
+  {
+    "id": 6446045,
+    "name": "Prasad Nayar",
+    "email": "prasad_nayar@daugherty.test",
+    "status": "active",
+    "posts_count": 1,
+    "todos_count": 1
+  },
+  {
+    "id": 6446044,
+    "name": "Ms. Abhaya Johar",
+    "email": "abhaya_ms_johar@price.test",
+    "status": "inactive",
+    "posts_count": 0,
+    "todos_count": 1
+  },
+  {
+    "id": 6446043,
+    "name": "Som Nambeesan",
+    "email": "nambeesan_som@price.example",
+    "status": "inactive",
+    "posts_count": 2,
+    "todos_count": 1
+  },
+  {
+    "id": 6446042,
+    "name": "Deb Khan",
+    "email": "deb_khan@carroll.test",
+    "status": "inactive",
+    "posts_count": 0,
+    "todos_count": 1
+  },
+  {
+    "id": 6446041,
+    "name": "Charumati Ahluwalia",
+    "email": "ahluwalia_charumati@pacocha.example",
+    "status": "active",
+    "posts_count": 2,
+    "todos_count": 1
+  },
+  {
+    "id": 6446040,
+    "name": "Vedanshi Dhawan VM",
+    "email": "vedanshi_vm_dhawan@paucek-cartwright.test",
+    "status": "inactive",
+    "posts_count": 0,
+    "todos_count": 0
+  },
+  {
+    "id": 6446037,
+    "name": "Jagathi Butt DC",
+    "email": "jagathi_butt_dc@rice-brekke.example",
+    "status": "active",
+    "posts_count": 2,
+    "todos_count": 1
+  },
+  {
+    "id": 6446036,
+    "name": "Arun Bharadwaj",
+    "email": "bharadwaj_arun@kris-kerluke.test",
+    "status": "active",
+    "posts_count": 1,
+    "todos_count": 1
+  }
+]
